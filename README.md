@@ -49,3 +49,10 @@ python evaluation_main.py --target $TARGET_DATASET --num_shot $K_SHOT --select '
 ```
 
 ## Cite
+@inproceedings{dawoud2023knowing,
+  title={Knowing What to Label for Few Shot Microscopy Image Cell Segmentation},
+  author={Dawoud, Youssef and Bouazizi, Arij and Ernst, Katharina and Carneiro, Gustavo and Belagiannis, Vasileios},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={3568--3577},
+  year={2023}
+}
